@@ -6,4 +6,4 @@
 - Result: 98.19% test accuracy, macro-F1 0.977 (single run).
 - The notebook expects `garbage_dataset_12class.zip` at the root of Google Drive; change `ZIP_PATH` in the data-extraction cell if yours is elsewhere.
 
-The dataset is not included.
+The dataset link: https://www.kaggle.com/datasets/mostafaabla/garbage-classification?resource=download
